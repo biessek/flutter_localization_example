@@ -1,0 +1,14 @@
+{
+   "@@last_modified": "2018-05-25T11:50:40.743319",
+   "title": "App Olá Mundo",
+   "@title": {
+     "description": "The application title",
+     "type": "text",
+     "placeholders": {}
+   },
+   "hello": "Olá",
+   "@hello": {
+     "type": "text",
+     "placeholders": {}
+   }
+}
