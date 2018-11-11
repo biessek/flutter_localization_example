@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate
       ],
-      supportedLocales: [Locale("en", ""), Locale("es", ""), Locale("pt", "")],
+      supportedLocales: [Locale("en"), Locale("es"), Locale("pt")],
       onGenerateTitle: (BuildContext context) =>
           AppLocalizations.of(context).title,
       theme: new ThemeData(
